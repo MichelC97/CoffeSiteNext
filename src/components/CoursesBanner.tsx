@@ -90,7 +90,7 @@ const CoursesBanner = () => {
           <CSeparation />
           <CoursesRText>
             <CParagraphR>
-              Whether you're an aspiring barista or coffee enthusiast, our
+              Whether you are an aspiring barista or coffee enthusiast, our
               courses offer something for everyone. Start your coffee journey
               today!
             </CParagraphR>
@@ -136,7 +136,7 @@ const CoursesBanner = () => {
             Our experienced instructors will guide you through the entire
             process, sharing their knowledge and expertise to help you develop
             your skills and deepen your appreciation for this beloved beverage.
-            Whether you're an aspiring barista, a coffee enthusiast, or simply
+            Whether you are an aspiring barista, a coffee enthusiast, or simply
             curious about the world of coffee, our courses offer something for
             everyone. Join us today and take the first step on your journey to
             becoming a true coffee connoisseur.

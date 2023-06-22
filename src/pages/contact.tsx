@@ -46,7 +46,7 @@ const Contact: React.FC = () => {
     <Layout title="Contact us">
       <ContainerDiv>
         <ContactTitle>Suggestions or Recommendations?</ContactTitle>
-        <ContactText>Don't hesitate and send us your idea</ContactText>
+        <ContactText>Do not hesitate and send us your idea</ContactText>
         <CImgWrapper>
           <CFormImg
             src="/contacto.jpg"
